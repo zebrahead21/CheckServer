@@ -1,0 +1,4 @@
+script.sh - Checks if apache process is running,
+		   if apache listens to port 80
+		   if http response is OK
+script.py - Python script which sends mails
