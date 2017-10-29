@@ -37,7 +37,7 @@ fi
 
 if [ "$server_ok" != "true" ]
 then
-	python /home/script.py
+	python script.py
 fi
 
 
